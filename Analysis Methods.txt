@@ -1,0 +1,8 @@
+Find the mean of critic review scores for each publisher and Developer, seperately
+
+Plot each mean on a Bar Chart (limit to top 10 highest means), sorted by size (limit to publishers/developers with at 
+least 10 games)
+
+Run Box Plots for the top 5 publishers with the largest mean review scores to make sure there arent too many outliers
+
+
